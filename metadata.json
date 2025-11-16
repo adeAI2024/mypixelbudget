@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Budget Tracker",
+  "description": "A retro-styled personal budget tracker that scans bill images using AI to automatically extract expense details and categorize them into a spreadsheet.",
+  "requestFramePermissions": []
+}
